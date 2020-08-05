@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>bg.png</name>
+	</drawable>
+	<drawable>
+		<name>cl4.png</name>
+		<rotate>3</rotate>
+		<centerX>23</centerX>
+		<centerY>22</centerY>
+		<direction>1</direction>
+		<mulrotate>2</mulrotate>
+	</drawable>
+	<drawable>
+		<name>cl3.png</name>
+		<rotate>3</rotate>
+		<centerX>-32</centerX>
+		<centerY>19</centerY>
+		<direction>2</direction>
+		<mulrotate>2</mulrotate>
+	</drawable>
+	<drawable>
+		<name>cl2.png</name>
+		<rotate>3</rotate>
+		<centerX>22</centerX>
+		<centerY>-32</centerY>
+		<direction>2</direction>
+		<mulrotate>2</mulrotate>
+	</drawable>
+	<drawable>
+		<name>cl1.png</name>
+		<rotate>3</rotate>
+		<centerX>-22</centerX>
+		<centerY>-20</centerY>
+		<mulrotate>2</mulrotate>
+	</drawable>
+	<drawable>
+		<name>cl5.png</name>
+	</drawable>
+	<drawable>
+		<name>hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>second.png</name>
+		<rotate>3</rotate>
+		<direction>1</direction>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

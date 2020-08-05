@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>bg.png</name>
+	</drawable>
+	<drawable>
+		<name>point1.png</name>
+		<rotate>13</rotate>
+		<rotatemode>6</rotatemode>
+		<direction>2</direction>
+		<angle>300</angle>
+		<centerY>-85</centerY>
+	</drawable>
+	<drawable>
+		<name>day.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>-83</centerX>
+	</drawable>
+	<drawable>
+		<name>step.xml</name>
+		<arraytype>12</arraytype>
+		<centerX>107</centerX>
+	</drawable>
+	<drawable>
+		<name>point2.png</name>
+		<rotate>5</rotate>
+		<centerY>87</centerY>
+	</drawable>
+	<drawable>
+		<name>hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>second.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

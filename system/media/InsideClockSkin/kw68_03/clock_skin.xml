@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>bg.png</name>
+	</drawable>
+	<drawable>
+		<name>day.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>32</centerX>
+		<centerY>-105</centerY>
+	</drawable>
+	<drawable>
+		<name>month.xml</name>
+		<arraytype>3</arraytype>
+		<centerX>-20</centerX>
+		<centerY>-104</centerY>
+	</drawable>
+	<drawable>
+		<name>battery.png</name>
+		<rotate>13</rotate>
+		<rotatemode>6</rotatemode>
+		<direction>1</direction>
+		<angle>300</angle>
+		<centerX>92</centerX>
+	</drawable>
+	<drawable>
+		<name>week.png</name>
+		<rotate>13</rotate>
+		<rotatemode>5</rotatemode>
+		<direction>2</direction>
+		<angle>210</angle>
+		<centerY>80</centerY>
+	</drawable>
+	<drawable>
+		<name>second.png</name>
+		<rotate>3</rotate>
+		<centerX>-92</centerX>
+	</drawable>
+	<drawable>
+		<name>hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>bg2.png</name>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

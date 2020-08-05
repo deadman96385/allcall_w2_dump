@@ -1,0 +1,13 @@
+# full_bw6580_weg_n-user 7.0 NRD90M 1531356759 test-keys
+- manufacturer: alps
+- platform: mt6580
+- codename: AllCall W2
+- flavor: full_bw6580_weg_n-user
+- release: 7.0
+- id: NRD90M
+- incremental: 1531356759
+- tags: test-keys
+- fingerprint: alps/full_bw6580_weg_n/bw6580_weg_n:7.0/NRD90M/1531356759:user/test-keys
+- brand: AllCall W2
+- branch: full_bw6580_weg_n-user-7.0-NRD90M-1531356759-test-keys
+- repo: allcall w2_allcall w2_dump
